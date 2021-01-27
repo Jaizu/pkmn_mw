@@ -1,5 +1,6 @@
 #include "global.h"
 #include "battle.h"
+#include "data.h"
 #include "pokemon.h"
 #include "pokemon_animation.h"
 #include "sprite.h"
