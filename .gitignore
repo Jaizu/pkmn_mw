@@ -34,3 +34,6 @@ porymap.project.cfg
 *.a
 .fuse_hidden*
 *.sna
+/*.png
+/*.gif
+triple_layer_converter.py
